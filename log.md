@@ -172,7 +172,7 @@ Completed lessons 304 - 311 of Complete Machine Learning and Data Science: Zero 
 
 ### Day 7: Feb 9, 2020
 
-Missed 1 days of #100DaysofCode because I knocked out after work. Today managed to complete an exercise creating a counter that loops over a list and adds up all the items of the list. It was a more elegant version than the solution provided in the ZTM course.
+Missed 1 day of #100DaysofCode because I knocked out after work. Today managed to complete an exercise creating a counter that loops over a list and adds up all the items of the list. It was a more elegant version than the solution provided in the ZTM course.
 
 ```
 # Counter
