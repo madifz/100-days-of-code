@@ -41,9 +41,11 @@ password_length = len(password)
 hidden_password = '*' * password_length
 
 print(f'{username}, your password, {hidden_password}, is {password_length} letters long')
+```
 
 Also completed exercise 24 of Learn Python the Hard Way - more practice on printing strings and functions.
 
+```
 print("Let's practice everything.")
 print('You\'d need to know \'bout escapes with \\ that do:')
 print('\n newlines and \t tabs.')
@@ -60,11 +62,12 @@ and requires an explanation
 print("--------------")
 print(poem)
 print("--------------")
-
-
+```
+```
 five = 10 - 2 + 3 - 6
 print(f"This should be five: {five}")
-
+```
+```
 def secret_formula(started):
     jelly_beans = started * 500
     jars = jelly_beans / 1000
