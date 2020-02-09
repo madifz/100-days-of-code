@@ -174,5 +174,17 @@ Completed lessons 304 - 311 of Complete Machine Learning and Data Science: Zero 
 
 Missed 1 days of #100DaysofCode because I knocked out after work. Today managed to complete an exercise creating a counter that loops over a list and adds up all the items of the list. It was a more elegant version than the solution provided in the ZTM course.
 
+```
+# Counter
+my_list = [1,2,3,4,5,6,7,8,9,10]
+list_total = 0
+for i in my_list:
+  list_total += i
+
+print(list_total) 
+```
+
+
+
 
 
