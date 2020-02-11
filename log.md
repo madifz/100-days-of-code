@@ -210,7 +210,7 @@ for image in picture:
 
 ### Day 8: Feb 10, 2020
 
-Cmpleted lessons 320 - 336 of Complete Machine Learning and Data Science: Zero to Mastery. Exercise code for lesson 320 (Find Duplicates) 325 (Tesla) below. 7 more lessons before I complete python core and can move on to ML part of the course. 
+Completed lessons 320 - 336 of Complete Machine Learning and Data Science: Zero to Mastery. Exercise code for lesson 320 (Find Duplicates) 325 (Tesla) below. 7 more lessons before I complete python core and can move on to ML part of the course. 
 
 ```
 # Exercise: check for duplicates in list
@@ -243,3 +243,13 @@ checkDriverAge(92)
 
 
 ### Day 9: Feb 11, 2020
+
+Completed lessons 336 - 343 of Complete Machine Learning and Data Science: Zero to Mastery. Exercise code for lesson 343 (List Comprehensions) below. Lesson 344 is a set to 2 quizzes on Python.
+
+```
+some_list = ['a', 'b', 'c', 'b', 'd', 'm', 'n', 'n']
+
+duplicates = list(set([value for value in some_list if some_list.count(value) > 1]))
+
+print(duplicates)
+```
