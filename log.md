@@ -205,3 +205,41 @@ for image in picture:
       print(' ', end = '')
   print()
 ```
+
+-----------------------------
+
+### Day 8: Feb 10, 2020
+
+Cmpleted lessons 320 - 336 of Complete Machine Learning and Data Science: Zero to Mastery. Exercise code for lesson 320 (Find Duplicates) 325 (Tesla) below. 7 more lessons before I complete python core and can move on to ML part of the course. 
+
+```
+# Exercise: check for duplicates in list
+
+some_list = ['a', 'b', 'c', 'b', 'd', 'm', 'n', 'n']
+
+duplicate = []
+
+for letter in some_list:
+  if some_list.count(letter) > 1:
+    if letter not in duplicate:
+      duplicate.append(letter)
+
+print(duplicate)
+```
+
+```
+def checkDriverAge(age = 0):
+  if int(age) < 18:
+    print("Sorry, you are too young to drive this car. Powering off")
+  elif int(age) > 18:
+    print("Powering On. Enjoy the ride!");
+  elif int(age) == 18:
+    print("Congratulations on your first year of driving. Enjoy the ride!")
+    
+checkDriverAge(92)
+```
+
+-----------------------------
+
+
+### Day 9: Feb 11, 2020
