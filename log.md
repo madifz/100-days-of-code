@@ -241,7 +241,6 @@ checkDriverAge(92)
 
 -----------------------------
 
-
 ### Day 9: Feb 11, 2020
 
 Completed lessons 336 - 343 of Complete Machine Learning and Data Science: Zero to Mastery. Exercise code for lesson 343 (List Comprehensions) below. Lesson 344 is a set of 2 quizzes on Python. Lessons 345 to 350 relates to using an IDE (PyCharm) and how to manage packages.
@@ -253,3 +252,9 @@ duplicates = list(set([value for value in some_list if some_list.count(value) > 
 
 print(duplicates)
 ```
+
+-----------------------------
+
+### Day 10: Feb 13, 2020
+
+Completed section 5 (lessons 30 - 41) of Complete Machine Learning and Data Science: Zero to Mastery. Installed Miniconda and set up env (pandas, numpy, matplotlib, scikit-learn, jupyter notebook). Learnt how to use Jupyter to work on projects. Next up: learning Pandas.
