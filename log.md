@@ -258,3 +258,9 @@ print(duplicates)
 ### Day 10: Feb 13, 2020
 
 Completed section 5 (lessons 30 - 41) of Complete Machine Learning and Data Science: Zero to Mastery. Installed Miniconda and set up env (pandas, numpy, matplotlib, scikit-learn, jupyter notebook). Learnt how to use Jupyter to work on projects. Next up: learning Pandas.
+
+-----------------------------
+
+### Day 14: Feb 14, 2020
+
+Completed Lessons 42 - 45 of Complete Machine Learning and Data Science: Zero to Mastery. Started on pandas in jupyter and learnt how to use pandas but didn't get as much learning as I wanted.
