@@ -11,3 +11,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 ### R2D2 (20/06/2021)
 - freeCodeCamp JavaScript Functional Programming Lesson 15 > Use the reduce Method to Analyze Data
 - The Odin Project Foundations > Installations up to Command Line Basics
+
+### R2D3 (21/06/2021)
+- The Odin Project Foundations > Setting Up Git
