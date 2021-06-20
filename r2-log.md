@@ -13,4 +13,4 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 - The Odin Project Foundations > Installations up to Command Line Basics
 
 ### R2D3 (21/06/2021)
-- The Odin Project Foundations > Setting Up Git
+- The Odin Project Foundations > Git (installed Git to machine, Git basics and practice)
