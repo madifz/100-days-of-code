@@ -16,5 +16,5 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 - The Odin Project Foundations > Git (installed Git to machine, Git basics and practice)
 - Project: Practicing Git Basics (cloned remote dir, created readme, add, commit, and push to main)
 
-### R2D3 (22/06/2021)
+### R2D4 (22/06/2021)
 - freeCodeCamp JavaScript Functional Programming Lesson 16 - 21
