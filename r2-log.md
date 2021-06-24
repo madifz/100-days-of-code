@@ -25,3 +25,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 ### R2D6 (24/06/2021)
 - Some SQL practice sets on DataCamp
 - Created index.html for vanilla clone of Google search page, no css yet (https://github.com/madifz/google-homepage)
+
+### R2D7 (25/06/2021)
+- Updated vanilla clone of Google search page with navbar and css; issue with navbar account image unable to align to right (https://github.com/madifz/google-homepage)
