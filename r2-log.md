@@ -28,3 +28,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D7 (25/06/2021)
 - Updated vanilla clone of Google search page with navbar and css; issue with navbar account image unable to align to right (https://github.com/madifz/google-homepage)
+
+### R2D8 (26/06/2021)
+- Slow day today, but important thing was not to break the chain. freeCodeCamp JavaScript Intermediate Algorithm Scripting lessons 1-3.
