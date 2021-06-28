@@ -31,3 +31,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D8 (26/06/2021)
 - Slow day today, but important thing was not to break the chain. freeCodeCamp JavaScript Intermediate Algorithm Scripting lessons 1-3.
+
+### R2D9 (27/06/2021)
+- Almost a standstill, but not breaking the chain by at least writing a line of code. Python practice sets on DataCamp.
