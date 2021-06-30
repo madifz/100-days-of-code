@@ -41,6 +41,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 ### R2D11 (29/06/2021)
 - The Odin Project JavaScript Basics Fundamentals Part 1.
 
-### R2D11 (30/06/2021)
+### R2D12 (30/06/2021)
 - Practice: educative.io An Intro to Python 3 - completed Intro and Quick Overview, Code Puzzles 1 - 10
 - Main: The Odin Project JavaScript Basics Fundamentals Part 2
