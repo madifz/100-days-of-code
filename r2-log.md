@@ -58,3 +58,7 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 - Practice: educative.io An Intro to Python 3 Code Puzzles 27 to 33
 - Refactor: Fixed code in previous vanilla google homepage project to align profile logo to top right (https://github.com/madifz/google-homepage)
 - Main: The Odin Project Foundations, JavaScript Basics Problem Solving
+
+### R2D17 (05/07/2021)
+- Practice: educative.io An Intro to Python 3 Code Puzzles 34 to 37
+- Main: The Odin Project Foundations, JavaScript Basics Understanding Errors
