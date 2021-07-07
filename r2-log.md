@@ -65,3 +65,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D18 (06/07/2021)
 - Practice: educative.io An Intro to Python 3 Code Puzzles 38 to 50 (Complete!). Stumbled a bit on some of the functional stuff but was a good practice course for python.
+
+### R2D19 (07/07/2021)
+- Main: The Odin Project Foundations, JavaScript Basics Rock Paper Scissors Project. Simple rps game played in the console https://github.com/madifz/rock-paper-scissors.
