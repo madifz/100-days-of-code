@@ -68,3 +68,7 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D19 (07/07/2021)
 - Main: The Odin Project Foundations, JavaScript Basics Rock Paper Scissors Project. Simple rps game played in the console https://github.com/madifz/rock-paper-scissors. Also completed 2 more modules Clean Code and Fundamentals Part 4.
+
+### R2D20 (08/07/2021)
+- freeCodeCamp JavaScript Algorithms & Data Structures  Intermediate Algorithm Scripting lesson 5/21
+- Main: The Odin Project Foundations, JavaScript Basics DOM Manipulation
