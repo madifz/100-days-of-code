@@ -72,3 +72,12 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 ### R2D20 (08/07/2021)
 - freeCodeCamp JavaScript Algorithms & Data Structures  Intermediate Algorithm Scripting lesson 5/21
 - Main: The Odin Project Foundations, JavaScript Basics DOM Manipulation
+
+### R2D21 (09/07/2021)
+
+- freeCodeCamp JavaScript Algorithms & Data Structures  Intermediate Algorithm Scripting lesson 5/21
+- Main: CoderFoundry .NET Bootcamp > VS Code Intro
+
+### R2D22 (10/07/2021)
+
+- Refactor: Update Rock Paper Scissors Project with UI so that player can select button choices and first to 5 wins will be announced in window alert.
