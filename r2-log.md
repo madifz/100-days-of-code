@@ -81,3 +81,9 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 ### R2D22 (10/07/2021)
 
 - Refactor: Update Rock Paper Scissors Project with UI so that player can select button choices and first to 5 wins will be announced in window alert. https://twitter.com/heymadifz/status/1413598436310405123?s=20
+
+### R2D23 (11/07/2021)
+
+- Practice: freeCodeCamp JS Intermediate Algorithm 6/21, educative.io Visual Intro to Algos Binary Search module
+- Main: CoderFoundry Intro to Git, The Odin Project Etch-A-Sketch (created repo and skeletal unstyled 16x16 grid) https://twitter.com/heymadifz/status/1413935814426300416?s=20
+
