@@ -87,3 +87,7 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 - Practice: freeCodeCamp JS Intermediate Algorithm 6/21, educative.io Visual Intro to Algos Binary Search module
 - Main: CoderFoundry Intro to Git, The Odin Project Etch-A-Sketch (created repo and skeletal unstyled 16x16 grid) https://twitter.com/heymadifz/status/1413935814426300416?s=20
 
+### R2D24 (12/07/2021)
+
+- CoderFoundry Complete .NET Bootcamp HTML module complete
+- The Odin Project Etch-A-Sketch (updated for random colour change on mouseover) https://madifz-etch-a-sketch.netlify.app/
