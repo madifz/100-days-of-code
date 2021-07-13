@@ -91,3 +91,7 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 - CoderFoundry Complete .NET Bootcamp HTML module complete
 - The Odin Project Etch-A-Sketch (updated for random colour change on mouseover) https://madifz-etch-a-sketch.netlify.app/
+
+### R2D25 (13/07/2021)
+
+- CoderFoundry Complete .NET Bootcamp Intro to Bootstrap & Grid Component
