@@ -95,3 +95,8 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 ### R2D25 (13/07/2021)
 
 - CoderFoundry Complete .NET Bootcamp Intro to Bootstrap & Grid Component
+
+### R2D26 (14/07/2021)
+
+- Josh Comeau’s CSS for JS Devs Intro & Module 0
+- CoderFoundry Complete .NET Bootcamp Bootstrap Grids Lessons 1-4, built out basic website layout for bootstrap exercise (https://madifz-bootstrapgrids.netlify.app/)
