@@ -106,3 +106,8 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 - Josh Comeau’s CSS for JS Devs Module 1 Rendering Logic (minus workshop)
 - CoderFoundry Complete .NET Bootcamp Bootstrap Grids completed Grid Lab 1 and pushed to production (https://madifz-bootstrapgrids.netlify.app/grid1)
 - Update Etch-A-Sketch project with grid reset button (https://madifz-etch-a-sketch.netlify.app/)
+
+### R2D28 (16/07/2021)
+
+- CoderFoundry Complete .NET Bootcamp Bootstrap Grids completed Grid Labs 2 & 3 and pushed to production (madifz-bootstrapgrids.netlify.app)
+- Completed Teh Odin Project Etch-A-Sketch project and pushed to production (madifz-etch-a-sketch.netlify.app)
