@@ -129,3 +129,7 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 - CoderFoundry Complete .NET Bootcamp Bootstrap Grids completed Grid Labs Contact Form
 - Comeau’s CSS for JS Devs Module 1 Workshop: Huckleberry Agency Page v1.0 (https://github.com/madifz/huckleberry)
+
+### R2D33 (21/07/2021)
+
+- CoderFoundry Complete .NET Bootcamp Portfolio Introduction and Deeper Dive.
