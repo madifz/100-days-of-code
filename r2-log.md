@@ -133,3 +133,9 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 ### R2D33 (21/07/2021)
 
 - CoderFoundry Complete .NET Bootcamp Portfolio Introduction and Deeper Dive.
+
+### R2D34 (22/07/2021) & R2D35 (23/07/2021) 
+- 2 days of just a few HackerRank Python practices, managed to reached 1 * Python language proficiency
+
+### R2D36 (24/07/2021)
+- CoderFoundry Complete .NET Bootcamp Building the Portfolio, Publishing to Netlify, JavaScript Intro.
