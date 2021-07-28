@@ -148,3 +148,7 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D39 (27/07/2021)
 - Selecting Bootstrap 5 template for portfolio site and started customising pages.
+
+### R2D40 (28/07/2021)
+- HackerRack 10 Days of JavaScript Day 4 exercises
+- CoderFoundry Complete .NET Bootcamp JS Site Template (part 1)
