@@ -152,3 +152,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 ### R2D40 (28/07/2021)
 - HackerRack 10 Days of JavaScript Day 4 exercises
 - CoderFoundry Complete .NET Bootcamp JS Site Template (part 1)
+
+### R2D41 (29/07/2021) & R2D42 (30/07/2021)
+- Past 2 days were hectic at work and ended up just editing my portfolio site pages .html code via GoCoEdit + iCloud on my phone during my commute. Managed to edit code so that links are updated accordingly.
