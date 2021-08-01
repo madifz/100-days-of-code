@@ -141,17 +141,23 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 - CoderFoundry Complete .NET Bootcamp Building the Portfolio, Publishing to Netlify, JavaScript Intro.
 
 ### R2D37 (25/07/2021)
-- HackerRack 10 Days of JavaScript Day 0 and Day 1 exercises.
+- HackerRank 10 Days of JavaScript Day 0 and Day 1 exercises.
 
 ### R2D38 (26/07/2021)
-- HackerRack 10 Days of JavaScript Day 2 and Day 3 exercises.
+- HackerRank 10 Days of JavaScript Day 2 and Day 3 exercises.
 
 ### R2D39 (27/07/2021)
 - Selecting Bootstrap 5 template for portfolio site and started customising pages.
 
 ### R2D40 (28/07/2021)
-- HackerRack 10 Days of JavaScript Day 4 exercises
+- HackerRank 10 Days of JavaScript Day 4 exercises
 - CoderFoundry Complete .NET Bootcamp JS Site Template (part 1)
 
 ### R2D41 (29/07/2021) & R2D42 (30/07/2021)
 - Past 2 days were hectic at work and ended up just editing my portfolio site pages .html code via GoCoEdit + iCloud on my phone during my commute. Managed to edit code so that links are updated accordingly.
+
+### R2D43 (31/07/2021)
+- HackerRank 10 Days of JavaScript Day 4 exercises
+
+### R2D44 (01/08/2021)
+- CoderFoundry Complete .NET Bootcamp JS Site Template (part 2)
