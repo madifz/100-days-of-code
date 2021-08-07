@@ -166,7 +166,7 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 - HackerRank 10 Days of JavaScript Day 5 exercises and updating code on my personal portfolio site.
 
 ### 3 Day Break (04/08/2021) - (06/08/2021) 
-- Took a 3 day break as the COVID-19 vaccine 2nd jab was much worse than I though, had to rest in bed most of the time
+- Took a 3 day break as the COVID-19 vaccine 2nd jab was much worse than I thought, had to rest in bed most of the time
 
 ### R2D47 (07/08/2021)
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 7/21 - 8/21
