@@ -170,3 +170,12 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D47 (07/08/2021)
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 7/21 - 8/21
+
+### R2D48 (08/08/2021)
+- freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 9/21
+
+### R2D49 (09/08/2021)
+- CoderFoundry Complete .NET Bootcamp JS Site Template (part 3)
+
+### R2D50 (10/08/2021)
+- CoderFoundry Complete .NET Bootcamp JS Site Template (part 4)
