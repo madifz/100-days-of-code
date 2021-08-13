@@ -185,3 +185,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D52 (12/08/2021)
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 11/21
+
+### R2D53 (13/08/2021)
+- CoderFoundry Complete .NET Bootcamp JS Site Template (part 5). Created UI for coding project by using JS site template and deployed to netlify (hundred-meter.netlify.app).
