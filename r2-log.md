@@ -197,3 +197,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D56 (16/08/2021)
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 15/21
+
+### R2D57 (17/08/2021)
+- freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 16/21 & 17/21
