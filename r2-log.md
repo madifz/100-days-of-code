@@ -203,3 +203,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D58 (18/08/2021)
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 18 - 21, module complete!
+
+### R2D59 (19/08/2021)
+- Main: The Odin Project Foundations, JavaScript Basics Fundamentals Part 5
