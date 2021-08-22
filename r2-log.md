@@ -209,3 +209,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D60 (20/08/2021)
 - Main: The Odin Project Foundations, JavaScript Basics Calculator Project => created the main functions of the project https://github.com/madifz/js-calculator
+
+### R2D61 (21/08/2021)
+- freeCodeCamp JavaScript Algorithms & Data Structures Projects: Palindrome Checker and Roman Numeral Converter
