@@ -218,3 +218,9 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D63 (23/08/2021)
 - Main: The Odin Project Foundations, JavaScript Basics Calculator Project => built out UI for calculator using starter code from codepen and freeCodeCamp (https://madifz-calculator.netlify.app)
+
+### R2D64 (24/08/2021)
+- freeCodeCamp JavaScript Algorithms & Data Structures Projects: Telephone Number Validator
+
+### R2D65 (25/08/2021)
+- freeCodeCamp JavaScript Algorithms & Data Structures Projects: Cash Register
