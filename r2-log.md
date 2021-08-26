@@ -224,3 +224,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D65 (25/08/2021)
 - freeCodeCamp JavaScript Algorithms & Data Structures Projects: Cash Register
+
+### R2D66 (26/08/2021)
+- Educative Front End Developer Path Module 4 JavaScript DOM Manipulation lessons 1-3. Paused this while doing freeCodeCamp and The Odin Project in parallel. Concepts now feel much clearer.
