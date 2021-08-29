@@ -227,3 +227,9 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D66 (26/08/2021)
 - Educative Front End Developer Path Module 4 JavaScript DOM Manipulation lessons 1-3. Paused this while doing freeCodeCamp and The Odin Project in parallel. Concepts now feel much clearer.
+
+### R2D67 (27/08/2021)
+- Educative Front End Developer Path Module 4 JavaScript DOM Manipulation lesson 4. 
+
+### R2D68 & R2D69 (28/08/2021 & 29/08/2021)
+- Educative Front End Developer Path Module 4 JavaScript DOM Manipulation lesson 5 - 8 (module complete).  
