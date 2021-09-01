@@ -235,4 +235,7 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 - Educative Front End Developer Path Module 4 JavaScript DOM Manipulation lesson 5 - 8 (module complete).  
 
 ### R2D70 (30/08/2021)
-- Educative Front End Developer Path Module 4 Functional Programmung completed all lessons (1 to 10).
+- Educative Front End Developer Path Module 4 Functional Programming completed all lessons (1 to 10).
+
+### R2D71 (31/08/2021)
+- Educative Front End Developer Path Module 3 CSS Grid all lessons (1 to 10), new section added in the module apparently.
