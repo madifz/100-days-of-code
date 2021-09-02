@@ -239,3 +239,9 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D71 (31/08/2021)
 - Educative Front End Developer Path Module 3 CSS Grid all lessons (1 to 10), new section added in the module apparently.
+
+### R2D72 (01/09/2021)
+- Educative Front End Developer Path Module 5 An Infinite Scrolling List all lessons (1 - 8).
+
+### R2D73 (02/09/2021)
+- The Odin Project Foundations, JavaScript Basics Calculator Project => updated event listeners to display number key pressed, still need more research to make the operators work (https://madifz-calculator.netlify.app)
