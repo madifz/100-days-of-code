@@ -245,3 +245,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D73 (02/09/2021)
 - The Odin Project Foundations, JavaScript Basics Calculator Project => updated event listeners to display number key pressed, still need more research to make the operators work (https://madifz-calculator.netlify.app)
+
+### R2D74 (03/09/2021)
+- freeCodeCamp APIs for Beginners Units 1 & 2 (https://youtu.be/GZvSYJDk-us)
