@@ -248,3 +248,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D74 (03/09/2021)
 - freeCodeCamp APIs for Beginners Units 1 & 2 (https://youtu.be/GZvSYJDk-us)
+
+### R2D75 (04/09/2021)
+- freeCodeCamp APIs for Beginners Unit 3 (https://youtu.be/GZvSYJDk-us)
