@@ -257,3 +257,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D77 (07/09/2021)
 - Educative Front End Developer Path Module 5 A Dropdown menu lessons 5 - 9.
+
+### R2D78 (08/09/2021)
+- freeCodeCamp Postman Beginner's Course API Testing Unit 1 (https://youtu.be/VywxIQ2ZXw4)
