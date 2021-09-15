@@ -278,3 +278,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D84 (14/09/2021)
 - freeCodeCamp Front End Development Libraries Bootstrap lessons 16-17.
+
+### R2D85 (15/09/2021)
+- freeCodeCamp Front End Development Libraries Bootstrap lessons 18-22.
