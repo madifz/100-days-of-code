@@ -287,3 +287,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D87 (17/09/2021)
 - freeCodeCamp Front End Development Libraries jQuery lessons 1-7.
+
+### R2D88 (18/09/2021)
+- freeCodeCamp Front End Development Libraries jQuery lessons 8-18, module complete!
