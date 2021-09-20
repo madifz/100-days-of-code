@@ -293,3 +293,6 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 ### R2D89 (19/09/2021)
 - freeCodeCamp Front End Development Libraries SASS lessons 1-9, module complete!
+
+### R2D90 (20/09/2021)
+- freeCodeCamp Front End Development Libraries React lessons 1-5.
