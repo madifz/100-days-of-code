@@ -5,77 +5,97 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 ## Log
 
 ### R2D1 (19/06/2021)
+
 - Continued with freeCodeCamp JavaScript Functional Programming lessons
 - Blog post on new roadmap and daily commitment (https://danialfaizsal.com/project-300-revisiting-100daysofcode-new-roadmap-phases-and-focus/)
 
 ### R2D2 (20/06/2021)
+
 - freeCodeCamp JavaScript Functional Programming Lesson 15 > Use the reduce Method to Analyze Data
 - The Odin Project Foundations > Installations up to Command Line Basics
 
 ### R2D3 (21/06/2021)
+
 - The Odin Project Foundations > Git (installed Git to machine, Git basics and practice)
 - Project: Practicing Git Basics (cloned remote dir, created readme, add, commit, and push to main)
 
 ### R2D4 (22/06/2021)
+
 - freeCodeCamp JavaScript Functional Programming Lesson 16 - 21
 
 ### R2D5 (23/06/2021)
+
 - freeCodeCamp JavaScript Functional Programming Lesson 21 - 24 (module complete!)
 
 ### R2D6 (24/06/2021)
+
 - Some SQL practice sets on DataCamp
 - Created index.html for vanilla clone of Google search page, no css yet (https://github.com/madifz/google-homepage)
 
 ### R2D7 (25/06/2021)
+
 - Updated vanilla clone of Google search page with navbar and css; issue with navbar account image unable to align to right (https://github.com/madifz/google-homepage)
 
 ### R2D8 (26/06/2021)
+
 - Slow day today, but important thing was not to break the chain. freeCodeCamp JavaScript Intermediate Algorithm Scripting lessons 1-3.
 
 ### R2D9 (27/06/2021)
+
 - Almost a standstill, but not breaking the chain by at least writing a line of code. Python practice sets on DataCamp.
 
 ### R2D10 (28/06/2021)
+
 - freeCodeCamp JavaScript - Intermediate Algorithm Scripting lessons 1 - 4.
-- 
+
 ### R2D11 (29/06/2021)
+
 - The Odin Project JavaScript Basics Fundamentals Part 1.
 
 ### R2D12 (30/06/2021)
+
 - Practice: educative.io An Intro to Python 3 - completed Intro and Quick Overview, Code Puzzles 1 - 10
 - Main: The Odin Project JavaScript Basics Fundamentals Part 2
 
 ### R2D13 (01/07/2021)
+
 - Main: The Odin Project Foundations Developer Tools 2
 
 ### R2D14 (02/07/2021)
+
 - Practice: educative.io An Intro to Python 3 Code Puzzles 11 to 26
 
 ### R2D15 (03/07/2021)
+
 - Main: The Odin Project Foundations, JavaScript Basics Fundamentals Part 3
 
 ### R2D16 (04/07/2021)
+
 - Practice: educative.io An Intro to Python 3 Code Puzzles 27 to 33
 - Refactor: Fixed code in previous vanilla google homepage project to align profile logo to top right (https://github.com/madifz/google-homepage)
 - Main: The Odin Project Foundations, JavaScript Basics Problem Solving
 
 ### R2D17 (05/07/2021)
+
 - Practice: educative.io An Intro to Python 3 Code Puzzles 34 to 37
 - Main: The Odin Project Foundations, JavaScript Basics Understanding Errors
 
 ### R2D18 (06/07/2021)
+
 - Practice: educative.io An Intro to Python 3 Code Puzzles 38 to 50 (Complete!). Stumbled a bit on some of the functional stuff but was a good practice course for python.
 
 ### R2D19 (07/07/2021)
+
 - Main: The Odin Project Foundations, JavaScript Basics Rock Paper Scissors Project. Simple rps game played in the console https://github.com/madifz/rock-paper-scissors. Also completed 2 more modules Clean Code and Fundamentals Part 4.
 
 ### R2D20 (08/07/2021)
-- freeCodeCamp JavaScript Algorithms & Data Structures  Intermediate Algorithm Scripting lesson 5/21
+
+- freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lesson 5/21
 - Main: The Odin Project Foundations, JavaScript Basics DOM Manipulation
 
 ### R2D21 (09/07/2021)
 
-- freeCodeCamp JavaScript Algorithms & Data Structures  Intermediate Algorithm Scripting lesson 5/21
+- freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lesson 5/21
 - Main: CoderFoundry .NET Bootcamp > VS Code Intro
 
 ### R2D22 (10/07/2021)
@@ -134,165 +154,219 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 
 - CoderFoundry Complete .NET Bootcamp Portfolio Introduction and Deeper Dive.
 
-### R2D34 (22/07/2021) & R2D35 (23/07/2021) 
-- 2 days of just a few HackerRank Python practices, managed to reached 1 * Python language proficiency
+### R2D34 (22/07/2021) & R2D35 (23/07/2021)
+
+- 2 days of just a few HackerRank Python practices, managed to reached 1 \* Python language proficiency
 
 ### R2D36 (24/07/2021)
+
 - CoderFoundry Complete .NET Bootcamp Building the Portfolio, Publishing to Netlify, JavaScript Intro.
 
 ### R2D37 (25/07/2021)
+
 - HackerRank 10 Days of JavaScript Day 0 and Day 1 exercises.
 
 ### R2D38 (26/07/2021)
+
 - HackerRank 10 Days of JavaScript Day 2 and Day 3 exercises.
 
 ### R2D39 (27/07/2021)
+
 - Selecting Bootstrap 5 template for portfolio site and started customising pages.
 
 ### R2D40 (28/07/2021)
+
 - HackerRank 10 Days of JavaScript Day 4 exercises
 - CoderFoundry Complete .NET Bootcamp JS Site Template (part 1)
 
 ### R2D41 (29/07/2021) & R2D42 (30/07/2021)
+
 - Past 2 days were hectic at work and ended up just editing my portfolio site pages .html code via GoCoEdit + iCloud on my phone during my commute. Managed to edit code so that links are updated accordingly.
 
 ### R2D43 (31/07/2021)
+
 - HackerRank 10 Days of JavaScript Day 4 exercises
 
 ### R2D44 (01/08/2021)
+
 - CoderFoundry Complete .NET Bootcamp JS Site Template (part 2)
 
-### R2D45 (02/08/2021) & R2D46 (03/08/2021) 
+### R2D45 (02/08/2021) & R2D46 (03/08/2021)
+
 - HackerRank 10 Days of JavaScript Day 5 exercises and updating code on my personal portfolio site.
 
-### 3 Day Break (04/08/2021) - (06/08/2021) 
+### 3 Day Break (04/08/2021) - (06/08/2021)
+
 - Took a 3 day break as the COVID-19 vaccine 2nd jab was much worse than I thought, had to rest in bed most of the time
 
 ### R2D47 (07/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 7/21 - 8/21
 
 ### R2D48 (08/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 9/21
 
 ### R2D49 (09/08/2021)
+
 - CoderFoundry Complete .NET Bootcamp JS Site Template (part 3)
 
 ### R2D50 (10/08/2021)
+
 - CoderFoundry Complete .NET Bootcamp JS Site Template (part 4)
 
 ### R2D51 (11/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 10/21
 
 ### R2D52 (12/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 11/21
 
 ### R2D53 (13/08/2021)
+
 - CoderFoundry Complete .NET Bootcamp JS Site Template (part 5). Created UI for coding project by using JS site template and deployed to netlify (hundred-meter.netlify.app)
 
 ### R2D54 (14/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 12/21 & 13/21
 
 ### R2D55 (15/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 14/21
 
 ### R2D56 (16/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 15/21
 
 ### R2D57 (17/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 16/21 & 17/21
 
 ### R2D58 (18/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Intermediate Algorithm Scripting lessons 18 - 21, module complete!
 
 ### R2D59 (19/08/2021)
+
 - Main: The Odin Project Foundations, JavaScript Basics Fundamentals Part 5
 
 ### R2D60 (20/08/2021)
+
 - Main: The Odin Project Foundations, JavaScript Basics Calculator Project => created the main functions of the project https://github.com/madifz/js-calculator
 
 ### R2D61 (21/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Projects: Palindrome Checker and Roman Numeral Converter
 
 ### R2D62 (22/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Projects: Caesars Cipher
 
 ### R2D63 (23/08/2021)
+
 - Main: The Odin Project Foundations, JavaScript Basics Calculator Project => built out UI for calculator using starter code from codepen and freeCodeCamp (https://madifz-calculator.netlify.app)
 
 ### R2D64 (24/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Projects: Telephone Number Validator
 
 ### R2D65 (25/08/2021)
+
 - freeCodeCamp JavaScript Algorithms & Data Structures Projects: Cash Register
 
 ### R2D66 (26/08/2021)
+
 - Educative Front End Developer Path Module 4 JavaScript DOM Manipulation lessons 1-3. Paused this while doing freeCodeCamp and The Odin Project in parallel. Concepts now feel much clearer.
 
 ### R2D67 (27/08/2021)
-- Educative Front End Developer Path Module 4 JavaScript DOM Manipulation lesson 4. 
+
+- Educative Front End Developer Path Module 4 JavaScript DOM Manipulation lesson 4.
 
 ### R2D68 & R2D69 (28/08/2021 & 29/08/2021)
-- Educative Front End Developer Path Module 4 JavaScript DOM Manipulation lesson 5 - 8 (module complete).  
+
+- Educative Front End Developer Path Module 4 JavaScript DOM Manipulation lesson 5 - 8 (module complete).
 
 ### R2D70 (30/08/2021)
+
 - Educative Front End Developer Path Module 4 Functional Programming completed all lessons (1 to 10).
 
 ### R2D71 (31/08/2021)
+
 - Educative Front End Developer Path Module 3 CSS Grid all lessons (1 to 10), new section added in the module apparently.
 
 ### R2D72 (01/09/2021)
+
 - Educative Front End Developer Path Module 5 An Infinite Scrolling List all lessons (1 - 8).
 
 ### R2D73 (02/09/2021)
+
 - The Odin Project Foundations, JavaScript Basics Calculator Project => updated event listeners to display number key pressed, still need more research to make the operators work (https://madifz-calculator.netlify.app)
 
 ### R2D74 (03/09/2021)
+
 - freeCodeCamp APIs for Beginners Units 1 & 2 (https://youtu.be/GZvSYJDk-us)
 
 ### R2D75 (04/09/2021)
+
 - freeCodeCamp APIs for Beginners Unit 3 (https://youtu.be/GZvSYJDk-us)
 
 ### R2D76 (06/09/2021)
+
 - Educative Front End Developer Path Module 5 A Dropdown menu lessons 1 - 4.
 
 ### R2D77 (07/09/2021)
+
 - Educative Front End Developer Path Module 5 A Dropdown menu lessons 5 - 9.
 
 ### R2D78 (08/09/2021)
+
 - freeCodeCamp Postman Beginner's Course API Testing Unit 1 (https://youtu.be/VywxIQ2ZXw4)
 
 ### R2D79 (09/09/2021)
+
 - freeCodeCamp Postman Beginner's Course API Testing Unit 2 (https://youtu.be/VywxIQ2ZXw4)
 
 ### R2D80 (10/09/2021)
+
 - freeCodeCamp Front End Development Libraries Bootstrap lessons 1-4.
 
 ### R2D81 (11/09/2021)
+
 - freeCodeCamp Front End Development Libraries Bootstrap lessons 5-10.
 
 ### R2D82 (12/09/2021)
+
 - freeCodeCamp Front End Development Libraries Bootstrap lessons 11-12.
 
 ### R2D83 (13/09/2021)
+
 - freeCodeCamp Front End Development Libraries Bootstrap lessons 13-15.
 
 ### R2D84 (14/09/2021)
+
 - freeCodeCamp Front End Development Libraries Bootstrap lessons 16-17.
 
 ### R2D85 (15/09/2021)
+
 - freeCodeCamp Front End Development Libraries Bootstrap lessons 18-22.
 
 ### R2D86 (16/09/2021)
+
 - freeCodeCamp Front End Development Libraries Bootstrap lessons 23-31, Bootstrap module complete.
 
 ### R2D87 (17/09/2021)
+
 - freeCodeCamp Front End Development Libraries jQuery lessons 1-7.
 
 ### R2D88 (18/09/2021)
+
 - freeCodeCamp Front End Development Libraries jQuery lessons 8-18, module complete!
 
 ### R2D89 (19/09/2021)
+
 - freeCodeCamp Front End Development Libraries SASS lessons 1-9, module complete!
 
 ### R2D90 (20/09/2021)
+
 - freeCodeCamp Front End Development Libraries React lessons 1-5.
