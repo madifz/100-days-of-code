@@ -398,3 +398,12 @@ The log of my #100DaysOfCode challenge. Started on 19 June 2021.
 ### R2D97 (27/09/2021)
 
 - freeCodeCamp Front End Development Libraries React lessons 25-27.
+
+### R2D98 (28/09/2021)
+
+- freeCodeCamp Front End Development Libraries React lessons 28.
+
+### R2D97 (29/09/2021)
+
+- freeCodeCamp Front End Development Libraries React lessons 29.
+
