@@ -20,3 +20,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D4 (04/10/2021)
 
 - freeCodeCamp Front End Development Libraries React lessons 42.
+
+### R3D5 (05/10/2021)
+
+- Rocket Academy Basics Day 1. Went through basics operations and git. My first pair programming experience! I had so much mental bandwidth to focus on code while my partner looked at docs/google.
