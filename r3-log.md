@@ -28,3 +28,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D6 (06/10/2021)
 
 - freeCodeCamp Front End Development Libraries React lessons 43.
+
+### R3D7 (07/10/2021)
+
+- freeCodeCamp Front End Development Libraries React lessons 44 - 47.
