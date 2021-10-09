@@ -36,3 +36,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D8 (08/10/2021)
 
 - freeCodeCamp Front End Development Libraries Redux lessons 1 - 5.
+
+### R3D9 (09/10/2021)
+
+- Rocket Academy Basics Day 2: Functions and errors, pair programming on base exercises (https://basics.rocketacademy.co/in-class-exercises/day-2-functions)
