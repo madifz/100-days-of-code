@@ -44,3 +44,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D10 (10/10/2021)
 
 - freeCodeCamp Front End Development Libraries Redux lessons 6 - 12.
+
+### R3D11 (11/10/2021)
+
+- Rocket Academy Basics Day 3 pre-class prep: Intro to Logic and Booleans OR ||/AND &&/NOT ! (https://basics.rocketacademy.co/6-conditional-logic/6.1-intro-to-logic)
