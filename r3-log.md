@@ -48,3 +48,8 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D11 (11/10/2021)
 
 - Rocket Academy Basics Day 3 pre-class prep: Intro to Logic and Booleans OR ||/AND &&/NOT ! (https://basics.rocketacademy.co/6-conditional-logic/6.1-intro-to-logic)
+
+### R3D12 (12/10/2021)
+
+- Tim Buchalka's Java Masterclass lessons 1 - 21: printing Hello World! Learning Java for upcoming role
+- Rocket Academy Basics Day 3: Pair programming on Boolean exercises (https://basics.rocketacademy.co/in-class-exercises/day-3-if-statements-boolean-or)
