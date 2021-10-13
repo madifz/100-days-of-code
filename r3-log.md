@@ -53,3 +53,8 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 - Tim Buchalka's Java Masterclass lessons 1 to 21: printing Hello World!, Learning Java for upcoming role
 - Rocket Academy Basics Day 3: Pair programming on Boolean exercises (https://basics.rocketacademy.co/in-class-exercises/day-3-if-statements-boolean-or)
+
+### R3D13 (13/10/2021)
+
+- freeCodeCamp Front End Development Libraries Redux lessons 13 - 17
+- Tim Buchalka's Java Masterclass lessons 22 to 24 (variables)
