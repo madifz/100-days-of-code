@@ -63,3 +63,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 - Rocket Academy Basics Day 4 pre-class prep: GitHub fork & pull requests, Program lifecycle and global state
 - Project 1 submission: Scissors, paper, stone part 1 (https://github.com/madifz/basics-scissors-paper-stone/blob/main/script.js)
+
+### R3D16 (16/10/2021)
+
+- Rocket Academy Basics Day 4: Pair programming on Boolean exercise & forking, committing and pull requesting code (https://basics.rocketacademy.co/in-class-exercises/day-4-boolean-and-program-state)
