@@ -67,3 +67,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D16 (16/10/2021)
 
 - Rocket Academy Basics Day 4: Pair programming on Boolean exercise & forking, committing and pull requesting code (https://basics.rocketacademy.co/in-class-exercises/day-4-boolean-and-program-state)
+
+### R3D17 (17/10/2021)
+
+- freeCodeCamp Front End Development Libraries React & Redux lessons 1 & 2
