@@ -80,3 +80,6 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 - Rocket Academy Basics Project submission and Day 5: Code review on my scissor paper stone project (https://github.com/madifz/basics-scissors-paper-stone)
 
+### R3D20 (20/10/2021)
+
+- freeCodeCamp Front End Development Libraries React & Redux lessons 6 - 10, module complete!
