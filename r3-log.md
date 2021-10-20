@@ -75,3 +75,8 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D18 (18/10/2021)
 
 - freeCodeCamp Front End Development Libraries React & Redux lessons 3 - 5
+
+### R3D19 (19/10/2021)
+
+- Rocket Academy Basics Project submission and Day 5: Code review on my scissor paper stone project (https://github.com/madifz/basics-scissors-paper-stone)
+
