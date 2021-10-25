@@ -91,5 +91,3 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D23/24 (23-24/10/2021)
 
 - learning web3 just for some basic understanding and created my first smart contract with buildspace.so
-
-
