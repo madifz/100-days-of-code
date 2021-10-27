@@ -91,3 +91,11 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D23/24 (23-24/10/2021)
 
 - learning web3 just for some basic understanding and created my first smart contract with buildspace.so
+
+### R3D25 (25/10/2021)
+
+- Rocket Academy Basics - updated Beat That Project (https://github.com/madifz/basics-beat-that/blob/main/script.js) with boilerplate and structure
+
+### R3D26 (26/10/2021)
+
+- My first pull request to an open source project (https://github.com/GeekZoneHQ/web)! Just updating contribution documentation but wanted to get my feet wet with making PRs.
