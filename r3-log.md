@@ -99,3 +99,8 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D26 (26/10/2021)
 
 - My first pull request to an open source project (https://github.com/GeekZoneHQ/web)! Just updating contribution documentation but wanted to get my feet wet with making PRs.
+
+### R3D27/28 (27-28/10/2021)
+
+- Tim Buchalka's Java Masterclass lesson 25: Primitive Types
+- JetBrains Academy Java for Beginners Stage 1 first 13 lessons
