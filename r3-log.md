@@ -108,3 +108,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D29 (29/10/2021)
 
 - JetBrains Academy Java for Beginners Stage 1, completed another 11 lessons up till for loops, and then 7-day trial ended (did not complete stage 1 in time). Great resource for project based learning, but I think for the moment I'll use free resources first to learn Java.
+
+### R3D30 (30/10/2021)
+
+- Tim Buchalka's Java Masterclass lessons 26 to 28.
