@@ -116,3 +116,8 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D31 (31/10/2021)
 
 - Tim Buchalka's Java Masterclass lessons 29 to 31.
+
+### R3D32-34 (1-3/11/2021)
+
+- busy with onboarding for new support engineer role, alot of technical knowledge to learn
+- supplementary learning with educative.io Java Masterclass for Software Devs first module (12 lessons)
