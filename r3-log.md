@@ -125,3 +125,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D35-36 (4-5/11/2021)
 
 - educative.io Java Masterclass for Software Devs Module 2: Arithmetic Expressions (8 lessons)
+
+### R3D37 (6/11/2021)
+
+- Tim Buchalka's Java Masterclass lessons 32 - 42, completed first steps module.
