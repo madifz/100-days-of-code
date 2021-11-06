@@ -121,3 +121,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 - busy with onboarding for new support engineer role, alot of technical knowledge to learn
 - supplementary learning with educative.io Java Masterclass for Software Devs first module (12 lessons)
+
+### R3D35-36 (4-5/11/2021)
+
+- educative.io Java Masterclass for Software Devs Module 2: Arithmetic Expressions (8 lessons)
