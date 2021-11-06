@@ -128,4 +128,4 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 ### R3D37 (6/11/2021)
 
-- Tim Buchalka's Java Masterclass lessons 32 - 42, completed first steps module.
+- Tim Buchalka's Java Masterclass lessons 32 - 42, completed Part 3.
