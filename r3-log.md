@@ -117,15 +117,19 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 - Tim Buchalka's Java Masterclass lessons 29 to 31.
 
-### R3D32-34 (1-3/11/2021)
+### R3D32-34 (01-03/11/2021)
 
 - busy with onboarding for new support engineer role, alot of technical knowledge to learn
 - supplementary learning with educative.io Java Masterclass for Software Devs first module (12 lessons)
 
-### R3D35-36 (4-5/11/2021)
+### R3D35-36 (04-05/11/2021)
 
 - educative.io Java Masterclass for Software Devs Module 2: Arithmetic Expressions (8 lessons)
 
-### R3D37 (6/11/2021)
+### R3D37 (06/11/2021)
 
 - Tim Buchalka's Java Masterclass lessons 32 - 42, completed Part 3.
+
+### R3D38 (07/11/2021)
+
+- Tim Buchalka's Java Masterclass lessons 43 - 48.
