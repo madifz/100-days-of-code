@@ -133,3 +133,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D38 (07/11/2021)
 
 - Tim Buchalka's Java Masterclass lessons 43 - 48.
+
+### R3D39 (08/11/2021)
+
+- Re-trying JetBrains Academy Java for Beginners with a new trial account. Stage 1/5 completed 26 lessons.
