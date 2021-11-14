@@ -141,3 +141,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D40-D42 (09-11/11/2021)
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lessons 27 - 29. Slow few days but important to continue the chain.
+
+### R3D43-D45 (12-114/11/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lessons 30 - 32.
