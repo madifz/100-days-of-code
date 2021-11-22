@@ -152,3 +152,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 ### R3 BREAK (17-21/11/2021)
 - Jetbrains academy trial ended and decided to take a break for the rest of week while I consolidate new knowledge from my new role. Also decided tp take the plunge and subscribe to the platform; feels similar to freecodecamp and odin project but for java, with added intellij integration.
+
+### R3D47 (22/11/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lesson 36 Multidimensional arrays.
