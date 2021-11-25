@@ -160,3 +160,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D48-D49 (23-24/11/2021)
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lesson 37-38 Arrays as parameters and String.
+
+### R3D50 (25/11/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lesson 39 Formatted output.
