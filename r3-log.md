@@ -172,3 +172,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D52 (27/11/2021)
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lesson 45 Errors in Programs.
+
+### R3D53 (28/11/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lesson 46 Defining Classes.
