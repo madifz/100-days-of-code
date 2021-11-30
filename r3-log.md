@@ -180,3 +180,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D54 (29/11/2021)
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lesson 47 Constructor.
+
+### R3D55 (30/11/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lesson 48 Instance Methods.
