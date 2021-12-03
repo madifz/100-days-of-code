@@ -189,6 +189,6 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lesson 49 Objects.
 
-### R3D57 (02/12/2021)
+### R3D57 (03/12/2021)
 
-- JetBrains Academy Java for Beginners Stage 1/5 completed lesson 50 Package.
+- JetBrains Academy Java for Beginners Stage 1/5 completed lesson 51 Access modifiers.
