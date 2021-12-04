@@ -196,3 +196,8 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D58 (03/12/2021)
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lesson 51 Access modifiers.
+
+### R3D59 (04/12/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lesson 52 Getters and setters.
+
