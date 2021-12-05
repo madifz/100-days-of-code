@@ -201,3 +201,6 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lesson 52 Getters and setters.
 
+### R3D60 (05/12/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lessons 53 - 55.
