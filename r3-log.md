@@ -209,3 +209,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lessons 56 - 57.
 - Algoexpert.io HTML crash course (grabbed the fullstack bundle during Black Friday sale).
+
+### R3D62 (07/12/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lessons 58.
