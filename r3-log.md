@@ -229,3 +229,7 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D66 (11/12/2021)
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lesson 62 Multiple Constructors.
+
+### R3D67-70 (12-15/12/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lessons 63 - 65.
