@@ -233,3 +233,14 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D67-70 (12-15/12/2021)
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lessons 63 - 65.
+
+### R3D71-72 (16-17/12/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lessons 66 Writing Files.
+
+- Took a break for the weekend (18 & 19 Dec), nearing burnout
+
+### R3D73 (20/12/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lessons 67 Input Streams.
+
