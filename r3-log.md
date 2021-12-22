@@ -244,3 +244,6 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lessons 67 Input Streams.
 
+### R3D74-75 (21-22/12/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 completed lessons 68 Try with resources.
