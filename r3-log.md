@@ -247,3 +247,15 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 ### R3D74-75 (21-22/12/2021)
 
 - JetBrains Academy Java for Beginners Stage 1/5 completed lessons 68 Try with resources.
+
+### R3D76-77 (23-24/12/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 lessons review practice (8 topics).
+
+### R3D78-79 (25-26/12/2021)
+
+- JetBrains Academy Java for Beginners Stage 1/5 lessons review practice (8 topics).
+
+### R3D80-81 (27-28/12/2021)
+
+- Algoexpert.io CSS crash course lessons 1 & 2.
