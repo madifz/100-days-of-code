@@ -262,8 +262,9 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 ### R3D82-84 (29-31/12/2021)
 
-- JetBrains Academy Java for Beginners Stage 1/5 lessons review practice (8 topics).
+- JetBrains Academy Java for Beginners Stage 1/5 lessons review practice (5 topics).
 
-### R3D85 (01/01/2022)
+### R3D85-86 (01-02/01/2022)
 
-- Udemy API and Web Service Introduction (Nate Ross)
+- Completed Udemy API and Web Service Introduction (Nate Ross)
+ude.my/UC-7c30ce5d-9919-455b-980c-4498d0586bd7/
