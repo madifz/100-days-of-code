@@ -276,3 +276,7 @@ ude.my/UC-7c30ce5d-9919-455b-980c-4498d0586bd7/
 ### R3D90 (06/01/2022)
 
 - JetBrains Academy Java for Beginners Stage 1/5 lessons coding practice (Switch statements).
+
+### R3D91 (07/01/2022)
+
+- JetBrains Academy Java for Beginners Stage 1/5 lessons coding practice 5 topics.
