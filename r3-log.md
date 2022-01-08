@@ -268,3 +268,11 @@ The log of my third round of #100DaysOfCode challenge after my first full comple
 
 - Completed Udemy API and Web Service Introduction (Nate Ross)
 ude.my/UC-7c30ce5d-9919-455b-980c-4498d0586bd7/
+
+### R3D87-89 (03-05/01/2022)
+
+- Algoexpert.io CSS crash course lessons 3-5.
+
+### R3D90 (06/01/2022)
+
+- JetBrains Academy Java for Beginners Stage 1/5 lessons coding practice (Switch statements).
