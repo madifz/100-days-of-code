@@ -280,3 +280,7 @@ ude.my/UC-7c30ce5d-9919-455b-980c-4498d0586bd7/
 ### R3D91 (07/01/2022)
 
 - JetBrains Academy Java for Beginners Stage 1/5 lessons coding practice 5 topics.
+
+### R3D92 (08/01/2022)
+- Created boilerplate and outlined requirements for new project
+https://github.com/madifz/SubsTracker
