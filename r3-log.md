@@ -286,5 +286,5 @@ ude.my/UC-7c30ce5d-9919-455b-980c-4498d0586bd7/
 https://github.com/madifz/SubsTracker
 
 ### R3D93 (09/01/2022)
-- SubsTracker (https://github.com/madifz/SubsTracker): built out subs properties, store in list and way to add new subs
+- SubsTracker (https://github.com/madifz/SubsTracker): built out subs properties, store in list, add new subs and display in DOM
 - JetBrains Academy Java for Beginners Stage 1/5 lessons coding practice 2 topics
