@@ -289,5 +289,5 @@ https://github.com/madifz/SubsTracker
 - SubsTracker (https://github.com/madifz/SubsTracker): built out subs properties, store in list, add new subs and display in DOM
 - JetBrains Academy Java for Beginners Stage 1/5 lessons coding practice 2 topics
 
-### R3D93 (09/01/2022)
+### R3D94 (10/01/2022)
 - SubsTracker (https://github.com/madifz/SubsTracker): added sub removal on clicking "Delete" button
