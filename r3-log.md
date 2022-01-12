@@ -291,3 +291,6 @@ https://github.com/madifz/SubsTracker
 
 ### R3D94 (10/01/2022)
 - SubsTracker (https://github.com/madifz/SubsTracker): added sub removal on clicking "Delete" button
+
+### R3D95 (11/01/2022)
+- SubsTracker (https://github.com/madifz/SubsTracker): update inputs for properties of a subscription
