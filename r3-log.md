@@ -294,3 +294,7 @@ https://github.com/madifz/SubsTracker
 
 ### R3D95 (11/01/2022)
 - SubsTracker (https://github.com/madifz/SubsTracker): update inputs for properties of a subscription
+
+### R3D96-D99 (12-15/01/2022)
+- Research via Zero to Mastery Complete Web Dev 2022 (Advanced JavaScript and React): https://madifz.github.io/robofriends/
+- JetBrains Academy Java for Beginners, Battleship project positioning of ships, Stage 1/5 complete
