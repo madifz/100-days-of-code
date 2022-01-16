@@ -299,5 +299,5 @@ https://github.com/madifz/SubsTracker
 - Research via Zero to Mastery Complete Web Dev 2022 (Advanced JavaScript and React): https://madifz.github.io/robofriends/
 - JetBrains Academy Java for Beginners, Battleship project positioning of ships, Stage 1/5 complete
 
-### R3D100 (1(/01/2022)
+### R3D100 (16/01/2022)
 - Zero to Mastery Complete Web Dev 2022 section 20 complete HTTP/JSON/AJAX + Asynchronous JavaScript
