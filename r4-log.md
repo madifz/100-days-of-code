@@ -10,5 +10,5 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 
 ### R4D2 (24/01/2022)
 
-- Zero to Mastery Web Dev buildong compononents for face recognition brain project
+- Zero to Mastery Web Dev building components for face recognition brain project
 - reading battleship code solution to understand different parts of the code https://pastebin.com/ZP7LsMSW
