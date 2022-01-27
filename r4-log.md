@@ -17,6 +17,6 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 
 - Zero to Mastery Web Dev building Navigation and Logo components for face recognition brain project
 
-### R4D4-5 (26-7/01/2022)
+### R4D4-5 (26-27/01/2022)
 
 - Zero to Mastery Web Dev: completed basic set of components for my react learning project; learning react is really fun! https://github.com/madifz/fr-brain
