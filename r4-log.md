@@ -20,3 +20,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D4-5 (26-27/01/2022)
 
 - Zero to Mastery Web Dev: completed basic set of components for my react learning project; learning react is really fun! https://github.com/madifz/fr-brain
+
+### R4D4-5 (28-29/01/2022)
+
+- Zero to Mastery Web Dev: completed image url ingestion for face recognition app using Clarifai api > https://github.com/madifz/fr-brain
