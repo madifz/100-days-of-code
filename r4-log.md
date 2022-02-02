@@ -28,3 +28,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D8 (30/01/2022)
 
 - Some Git practice with short course by @j_kettmann to help get comfy with Git and GitHub https://profy.dev/project/github-minesweeper 
+
+### R4D9-11 (31/1-2/2 2022)
+
+- Zero to Mastery Web Dev: completed frontend react UI for face recognition app > https://github.com/madifz/fr-brain
