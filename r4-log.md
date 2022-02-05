@@ -36,3 +36,11 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D12 (3/2/2022)
 
 - Zero to Mastery Web Dev: Express server and Postman
+
+### R4D13 (4/2/2022)
+
+- Zero to Mastery Web Dev: Node.js + Express.js module complete
+
+### R4D14 (5/2/2022)
+
+- Moving internally to working with plugins (PHP, JavaScript based) so ramping up with learning PHP and Magento! Started with some PHP basics via educative.io Learn PHP from Scratch (Variables, Operators, Conditional Statements modules).
