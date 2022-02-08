@@ -54,3 +54,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 
 - Zero to Mastery Web Dev: face recognition app backend, building API /profile/:id and /image endpoints (https://github.com/madifz/fr-brain-api)
 - Educative Learn PHP from Scratch: functions
+
+### R4D17 (8/2/2022)
+
+- Educative Learn PHP from Scratch: strings
