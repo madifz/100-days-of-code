@@ -58,3 +58,8 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D17 (8/2/2022)
 
 - Educative Learn PHP from Scratch: strings
+
+### R4D18-19 (9-10/2/2022)
+
+- Educative Learn PHP from Scratch: arrays
+
