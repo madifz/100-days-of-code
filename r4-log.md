@@ -63,3 +63,6 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 
 - Educative Learn PHP from Scratch: arrays
 
+### R4D20-23 (11-14/2/2022)
+
+- Educative Learn PHP from Scratch: course complete after finishing last 2 topics on class/inheritance and exception handling.
