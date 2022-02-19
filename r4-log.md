@@ -66,3 +66,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D20-23 (11-14/2/2022)
 
 - Educative Learn PHP from Scratch: course complete after finishing last 2 topics on class/inheritance and exception handling.
+
+### R4D24-27 (15-18/2/2022)
+
+- Since I was learning php on Educative, decided to complete the Front End dev path that I stopped before. Surprisingly the last portion about launching a website was about domains/web hosting, VCS and SEO. 
