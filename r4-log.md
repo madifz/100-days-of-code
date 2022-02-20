@@ -70,3 +70,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D24-27 (15-18/2/2022)
 
 - Since I was learning php on Educative, decided to complete the Front End dev path that I stopped before. Surprisingly the last portion about launching a website was about domains/web hosting, VCS and SEO. 
+
+### R4D28-29 (19-20/2/2022)
+
+- Continuing with Zero to Mastery Web Dev, learning hashing passwords with bcrypt and trying to connect frontend React UI and backend node/express server. Ran into some problems with frontend not working when npm start, so will try again tomorrow!
