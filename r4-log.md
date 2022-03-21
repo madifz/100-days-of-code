@@ -74,3 +74,6 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D28-29 (19-20/2/2022)
 
 - Continuing with Zero to Mastery Web Dev, learning hashing passwords with bcrypt and trying to connect frontend React UI and backend node/express server. Ran into some problems with frontend not working when npm start, so will try again tomorrow!
+
+### R4D1 (21/3/22)
+- Round 4 #100DaysOfCode restart. Dropped off end-Feb/early-Mar due to work, picking up from where I left off + also learning some Linux (freeCodeCamp intro and then playing around with a RPi4). 
