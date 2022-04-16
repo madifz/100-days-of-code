@@ -27,7 +27,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 
 ### R4D8 (30/01/2022)
 
-- Some Git practice with short course by @j_kettmann to help get comfy with Git and GitHub https://profy.dev/project/github-minesweeper 
+- Some Git practice with short course by @j{underscore}kettmann to help get comfy with Git and GitHub https://profy.dev/project/github-minesweeper
 
 ### R4D9-11 (31/1-2/2 2022)
 
@@ -76,4 +76,13 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 - Continuing with Zero to Mastery Web Dev, learning hashing passwords with bcrypt and trying to connect frontend React UI and backend node/express server. Ran into some problems with frontend not working when npm start, so will try again tomorrow!
 
 ### R4D1 (21/3/22)
-- Round 4 #100DaysOfCode restart. Dropped off end-Feb/early-Mar due to work, picking up from where I left off + also learning some Linux (freeCodeCamp intro and then playing around with a RPi4). 
+- Round 4 #100DaysOfCode restart. Dropped off end-Feb/early-Mar due to work, picking up from where I left off + also learning some Linux (freeCodeCamp intro and then playing around with a RPi4).
+
+### R4D2-3 (30/3/22)
+- Putting pause on round 4 of #100DaysOfCode. Been busy reviewing React, learning magento/sfcc/prestashop for work and also helping a friend prep for tech interviews, so have not really been able to restart properly. Will probably restart at the same time when I also start my part-time web and programming diploma course; we’re starting with Python so really looking forward to re-learning it.
+
+### R4D1 (16/4/22)
+- Round 4 restart, this time on a Project 300 framework chaining 3 #100DaysOfCode rounds to align with my diploma course 
+https://danialfaizsal.com/project-300-2022-mastery-based-learning/
+- Zero to Mastery Web Dev is at the tail end after solving earlier backend issues
+- Launch School LS95 Orientation
