@@ -86,3 +86,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 - Zero to Mastery Web Dev is at the tail end after solving earlier backend issues
 - Launch School LS95 Orientation
+
+### R4D2 (17/4/22)
+- Codecademy Ruby Intro lessons 1-8 (LaunchSchool prep)
+- Python practical 1 (Diploma)
