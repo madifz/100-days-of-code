@@ -90,3 +90,7 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 ### R4D2 (17/4/22)
 - Codecademy Ruby Intro lessons 1-8 (LaunchSchool prep)
 - Python practical 1 (Diploma)
+
+### R4D3 (18/4/22)
+- LS Intro to Programming with Ruby (LaunchSchool prep)
+- Fundamentals WebDev Tech Lesson 1 (Diploma)
