@@ -94,3 +94,6 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 ### R4D3 (18/4/22)
 - LS Intro to Programming with Ruby (c1 Basics - c2 Variables)(LaunchSchool prep)
 - Fundamentals WebDev Tech Lesson 1 - good refesher of semantic tags and symbols (Diploma)
+
+### R4D4 (19/4/22)
+- LS Intro to Programming with Ruby (c3 Methods)(LaunchSchool prep)
