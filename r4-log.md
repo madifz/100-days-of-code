@@ -100,3 +100,6 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 
 ### R4D5 (20/4/22)
 - LS Intro to Programming with Ruby (c4 Flow Control)(LaunchSchool prep)
+
+### R4D6 (21/4/22)
+- LS Intro to Programming with Ruby (c1 Basics - c5 Loops & Iterators)(LaunchSchool prep)
