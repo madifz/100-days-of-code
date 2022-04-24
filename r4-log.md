@@ -104,7 +104,7 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 ### R4D6 (21/4/22)
 - LS Intro to Programming with Ruby (c5 Loops & Iterators)(LaunchSchool prep)
 
-### R4D6-8 (22-23/4/22)
+### R4D7-8 (22-23/4/22)
 - LS Intro to Programming with Ruby (c6 Arrays - c7 Hashes)(LaunchSchool prep)
 
 ### R4D9 (24/4/22)
