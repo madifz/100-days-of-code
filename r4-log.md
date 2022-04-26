@@ -109,3 +109,9 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 
 ### R4D9 (24/4/22)
 - LS Intro to Programming with Ruby (c8 Advanced concepts)(LaunchSchool prep)
+
+### R4D10 (25/4/22)
+- Fundamentals WebDev Tech Lesson 2 - Live practical using semantic tags, especially <nav>, <article>, <dl> and <aside> (Diploma)
+
+### R4D11 (26/4/22)
+- LS Ruby Basics: Reading Documentation exercises 1-4 (LaunchSchool prep)
