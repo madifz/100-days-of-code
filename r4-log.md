@@ -118,3 +118,6 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 
 ### R4D12 (27/4/22)
 - LS Ruby Basics: Reading Documentation 1 ex 5-8, Reading Documentation 2 ex 1-3, Variable Scope 1-10(LaunchSchool prep)
+
+### R4D13 (28/4/22)
+- Fundamentals of Programming Lesson 1 & 2: Intro and Data Types (Diploma)
