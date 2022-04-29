@@ -121,3 +121,6 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 
 ### R4D13 (28/4/22)
 - Fundamentals of Programming Lesson 1 & 2: Intro and Data Types (Diploma)
+
+### R4D14 (29/4/22)
+- LS Ruby Basics: Loops 1 ex 1-10 (LaunchSchool prep)
