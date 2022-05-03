@@ -126,7 +126,7 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 - LS Ruby Basics: Loops 1 ex 1-10 (LaunchSchool prep)
 
 ### R4D15 (30/4/22)
-- Head First Java 3rd edition champter 1-2
+- Head First Java 3rd edition chapters 1-2
 
 ### R4D16-17 (1-2/5/22)
 - Harvard CS50 week 0 & 1
