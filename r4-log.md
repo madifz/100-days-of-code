@@ -130,3 +130,12 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 
 ### R4D16-17 (1-2/5/22)
 - Harvard CS50 week 0 & 1
+
+### R4D18 (3/5/22)
+- LS Ruby Basics: Loops 2 ex 1-10
+
+### R4D19 (4/5/22)
+- LS Ruby Basics: User input ex 1-10
+
+### R4D20 (5/5/22)
+- JetBrains Academy Java Dev path: Paradigms
