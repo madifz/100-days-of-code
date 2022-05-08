@@ -139,3 +139,13 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 
 ### R4D20 (5/5/22)
 - JetBrains Academy Java Dev path: Paradigms
+
+### R4D21 (6/5/22)
+- LS Programming & Back-end Prep: JavaScript topics 1 - 4. Decided to switch to JS track since I decided to go deeper with Java which is the main language at work. The JS track will solidify my JS knowledge further and I don't have to learn multiple languages at the same time.
+
+### R4D21 (7/5/22)
+- LS Codecademy JS: Intro C1
+
+### R4D21 (8/5/22)
+- LS Codecademy JS: Intro C2
+ 
