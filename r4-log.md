@@ -147,5 +147,5 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 - LS Codecademy JS: Intro C1
 
 ### R4D21 (8/5/22)
-- LS Codecademy JS: Intro C2
+- LS Codecademy JS: Intro C2 Variables
  
