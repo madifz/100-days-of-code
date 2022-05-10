@@ -148,4 +148,6 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 
 ### R4D21 (8/5/22)
 - LS Codecademy JS: Intro C2
- 
+
+### R4D22-23 (9-10/5/22)
+- LS Codecademy JS: Kelvin and Dog Years project, Intro to JS complete
