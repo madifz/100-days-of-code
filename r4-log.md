@@ -155,5 +155,5 @@ https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 ### R4D24 (11/5/22)
 - LS Codecademy JS: Conditional Statements
 
-### R4D25 (11/5/22)
+### R4D25 (12/5/22)
 - Fundamentals of Programming Lesson 2 & 3: Variables and Selection (Diploma)
