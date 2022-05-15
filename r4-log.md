@@ -69,91 +69,130 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 
 ### R4D24-27 (15-18/2/2022)
 
-- Since I was learning php on Educative, decided to complete the Front End dev path that I stopped before. Surprisingly the last portion about launching a website was about domains/web hosting, VCS and SEO. 
+- Since I was learning php on Educative, decided to complete the Front End dev path that I stopped before. Surprisingly the last portion about launching a website was about domains/web hosting, VCS and SEO.
 
 ### R4D28-29 (19-20/2/2022)
 
 - Continuing with Zero to Mastery Web Dev, learning hashing passwords with bcrypt and trying to connect frontend React UI and backend node/express server. Ran into some problems with frontend not working when npm start, so will try again tomorrow!
 
 ### R4D1 (21/3/22)
+
 - Round 4 #100DaysOfCode restart. Dropped off end-Feb/early-Mar due to work, picking up from where I left off + also learning some Linux (freeCodeCamp intro and then playing around with a RPi4).
 
 ### R4D2-3 (30/3/22)
+
 - Putting pause on round 4 of #100DaysOfCode. Been busy reviewing React, learning magento/sfcc/prestashop for work and also helping a friend prep for tech interviews, so have not really been able to restart properly. Will probably restart at the same time when I also start my part-time web and programming diploma course; we’re starting with Python so really looking forward to re-learning it.
 
 ### R4D1 (16/4/22)
-- Round 4 restart, this time on a Project 300 framework chaining 3 #100DaysOfCode rounds to align with my diploma course 
-https://danialfaizsal.com/project-300-2022-mastery-based-learning/
+
+- Round 4 restart, this time on a Project 300 framework chaining 3 #100DaysOfCode rounds to align with my diploma course
+  https://danialfaizsal.com/project-300-2022-mastery-based-learning/
 - Zero to Mastery Web Dev is at the tail end after solving earlier backend issues
 - Launch School LS95 Orientation
 
 ### R4D2 (17/4/22)
+
 - Codecademy Ruby Intro lessons 1-8 (LaunchSchool prep)
 - Python practical 1 (Diploma)
 
 ### R4D3 (18/4/22)
+
 - LS Intro to Programming with Ruby (c1 Basics - c2 Variables)(LaunchSchool prep)
 - Fundamentals WebDev Tech Lesson 1 - good refesher of semantic tags and symbols (Diploma)
 
 ### R4D4 (19/4/22)
+
 - LS Intro to Programming with Ruby (c3 Methods)(LaunchSchool prep)
 
 ### R4D5 (20/4/22)
+
 - LS Intro to Programming with Ruby (c4 Flow Control)(LaunchSchool prep)
 
 ### R4D6 (21/4/22)
+
 - LS Intro to Programming with Ruby (c5 Loops & Iterators)(LaunchSchool prep)
 
 ### R4D7-8 (22-23/4/22)
+
 - LS Intro to Programming with Ruby (c6 Arrays - c7 Hashes)(LaunchSchool prep)
 
 ### R4D9 (24/4/22)
+
 - LS Intro to Programming with Ruby (c8 Advanced concepts)(LaunchSchool prep)
 
 ### R4D10 (25/4/22)
+
 - Fundamentals WebDev Tech Lesson 2 - Live practical using semantic tags, especially <nav>, <article>, <dl> and <aside> (Diploma)
 
 ### R4D11 (26/4/22)
+
 - LS Ruby Basics: Reading Documentation exercises 1-4 (LaunchSchool prep)
 
 ### R4D12 (27/4/22)
+
 - LS Ruby Basics: Reading Documentation 1 ex 5-8, Reading Documentation 2 ex 1-3, Variable Scope 1-10(LaunchSchool prep)
 
 ### R4D13 (28/4/22)
+
 - Fundamentals of Programming Lesson 1 & 2: Intro and Data Types (Diploma)
 
 ### R4D14 (29/4/22)
+
 - LS Ruby Basics: Loops 1 ex 1-10 (LaunchSchool prep)
 
 ### R4D15 (30/4/22)
+
 - Head First Java 3rd edition chapters 1-2
 
 ### R4D16-17 (1-2/5/22)
+
 - Harvard CS50 week 0 & 1
 
 ### R4D18 (3/5/22)
+
 - LS Ruby Basics: Loops 2 ex 1-10
 
 ### R4D19 (4/5/22)
+
 - LS Ruby Basics: User input ex 1-10
 
 ### R4D20 (5/5/22)
+
 - JetBrains Academy Java Dev path: Paradigms
 
 ### R4D21 (6/5/22)
+
 - LS Programming & Back-end Prep: JavaScript topics 1 - 4. Decided to switch to JS track since I decided to go deeper with Java which is the main language at work. The JS track will solidify my JS knowledge further and I don't have to learn multiple languages at the same time.
 
 ### R4D21 (7/5/22)
+
 - LS Codecademy JS: Intro C1
 
 ### R4D21 (8/5/22)
+
 - LS Codecademy JS: Intro C2
 
 ### R4D22-23 (9-10/5/22)
+
 - LS Codecademy JS: Kelvin and Dog Years project, Intro to JS complete
 
 ### R4D24 (11/5/22)
+
 - LS Codecademy JS: Conditional Statements
 
 ### R4D25 (12/5/22)
+
 - Fundamentals of Programming Lesson 2 & 3: Variables and Selection (Diploma)
+
+### R4D26 (13/5/22)
+
+- LS Codecademy JS: Conditional Statements Magic Eight Ball and Race Day toy projects
+
+### R4D27 (14/5/22)
+
+- LS Codecademy JS: Functions
+
+### R4D27 (14/5/22)
+
+- Head First Java chapters 3
+- Udemy Java Masterclass
