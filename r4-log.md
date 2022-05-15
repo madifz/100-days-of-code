@@ -192,7 +192,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 
 - LS Codecademy JS: Functions
 
-### R4D27 (14/5/22)
+### R4D28 (15/5/22)
 
 - Head First Java chapters 3
-- Udemy Java Masterclass
+- Udemy Java Masterclass l1 - l27 (Casting in Java)
