@@ -197,7 +197,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 - Head First Java chapters 3
 - Udemy Java Masterclass l1 - l27 (Casting in Java)
 
- ### R4D29 (16/5/22)
+### R4D29 (16/5/22)
 
 - Head First Java chapters 4
 - Udemy Java Masterclass L28 - L29
