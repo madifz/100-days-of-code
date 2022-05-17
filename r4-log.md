@@ -176,7 +176,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 
 - LS Codecademy JS: Kelvin and Dog Years project, Intro to JS complete
 
-### R4D24 (11/5/22)
+### nd double R4D24 (11/5/22)
 
 - LS Codecademy JS: Conditional Statements
 
@@ -200,4 +200,4 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D29 (16/5/22)
 
 - Head First Java chapters 4
-- Udemy Java Masterclass L28 - L29
+- Udemy Java Masterclass L28 - L29 (float and double primitive types)
