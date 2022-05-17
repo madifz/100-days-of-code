@@ -201,3 +201,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 
 - Head First Java chapters 4
 - Udemy Java Masterclass L28 - L29 (float and double primitive types)
+
+### R4D30 (17/5/22)
+
+- Fundamentals of Programming Lesson 3 & 4: Loops and Functions (Diploma)
