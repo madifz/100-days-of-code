@@ -205,3 +205,11 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D30 (17/5/22)
 
 - Fundamentals of Programming Lesson 3 & 4: Loops and Functions (Diploma)
+
+### R4D31-35 (18-22/5/22)
+
+- Head First Java chapter 5. Busy week so just went through chapter on java methods.
+
+### R4D36 (23/5/22)
+
+- Fundamentals WebDev Tech Lesson 4 - Page Layout (Diploma)
