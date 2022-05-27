@@ -213,3 +213,12 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D36 (23/5/22)
 
 - Fundamentals WebDev Tech Lesson 4 - Page Layout (Diploma)
+
+### R4D31-35 (24-25/5/22)
+
+- Head First Java chapter 6: Java API/Library
+ 
+
+### R4D39 (26/5/22)
+
+- Fundamentals of Programming (Python) Lesson 6: Classes (Diploma)
