@@ -222,3 +222,8 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D39 (26/5/22)
 
 - Fundamentals of Programming (Python) Lesson 6: Classes (Diploma)
+
+### R4D40 (27/5/22)
+
+- JetBrains Academy Python Core practice
+
