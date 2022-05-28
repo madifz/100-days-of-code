@@ -223,7 +223,8 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 
 - Fundamentals of Programming (Python) Lesson 6: Classes (Diploma)
 
-### R4D40 (27/5/22)
+### R4D40-41 (27-28/5/22)
 
 - JetBrains Academy Python Core practice
+- Fundamentals of Programming Part A Assignment - Movie class code (Diploma)
 
