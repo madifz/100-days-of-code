@@ -228,3 +228,18 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 - JetBrains Academy Python Core practice
 - Fundamentals of Programming Part A Assignment - Movie class code (Diploma)
 
+### R4D42 (29/5/22)
+
+- JetBrains Academy Python Core practice
+
+### R4D43 (30/5/22)
+
+- Fundamentals WebDev Tech Lesson 5 - Forms (Diploma)
+
+### R4D44 (31/5/22)
+
+- JetBrains Academy Python Core practice
+
+### R4D45-46 (1-2/6/22)
+
+- Visual Interface Design - website wireframe assignment (Diploma) 
