@@ -243,3 +243,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D45-46 (1-2/6/22)
 
 - Visual Interface Design - website wireframe assignment (Diploma) 
+
+### R4D47-48 (3-4/6/22)
+
+- JetBrains Academy Python Core practice
