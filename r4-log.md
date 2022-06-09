@@ -251,3 +251,7 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D49 (5/6/22)
 
 - Udemy Java Masterclass L30 - L44
+
+### R4D50-52 (6-8/6/22)
+
+- Udemy Java Masterclass L45 - L50
