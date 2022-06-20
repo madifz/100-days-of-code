@@ -264,3 +264,6 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 ### R4D57-64 (13-20/6/22)
 - JetBrains Academy Python Core practice
 - Head First Java
+
+### R4D65 (21/6/22)
+- - JetBrains Academy Python Core
