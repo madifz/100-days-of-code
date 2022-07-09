@@ -266,4 +266,10 @@ The log of my fourth round of #100DaysOfCode challenge after ending round three 
 - Head First Java
 
 ### R4D65 (21/6/22)
-- - JetBrains Academy Python Core
+- JetBrains Academy Python Core
+
+### R4D66-82 (22/6 - 8/7)
+Backlog because was on work trip in AMS and then was recovering the last week after coming back.
+- JetBrains Academy Python Core
+- Head First Java
+- Fundamentals WebDev Tech Tables and Columns (Diploma)
