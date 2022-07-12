@@ -273,3 +273,6 @@ Backlog because was on work trip in AMS and then was recovering the last week af
 - JetBrains Academy Python Core
 - Head First Java
 - Fundamentals WebDev Tech Tables and Columns (Diploma)
+
+### R4D83-85 (9-11/7/22)
+- JetBrains Academy Python Core
