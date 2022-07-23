@@ -280,3 +280,6 @@ Backlog because was on work trip in AMS and then was recovering the last week af
 ### R4D86-93 (12-19/7/22)
 - JetBrains Academy Python Core
 - Fundamentals WebDev: Bootstrap (Diploma) 
+
+### R4D94-96 (20-22/7/22)
+- JetBrains Academy Python Core, just spending these last few days with my diploma python assignment 
