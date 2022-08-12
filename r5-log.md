@@ -14,3 +14,10 @@ The log of my fifth round of #100DaysOfCode challenge after ending round four on
 i. JavaScript codecademy - Scope
 ii. JetBrains Academy Python core revision
 iii. Completing diploma assignment UX wireframe of movie booking website
+
+### R5D12-D16 (7-11/8 2022)
+
+- backlog
+i. JavaScript codecademy 
+ii. JetBrains Academy Python core revision
+iii. JetBrains Academy SQL Fundamentals (prepping for an upcoming new role!)
