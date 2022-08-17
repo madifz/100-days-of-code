@@ -21,3 +21,7 @@ iii. Completing diploma assignment UX wireframe of movie booking website
 i. JavaScript codecademy 
 ii. JetBrains Academy Python core revision
 iii. JetBrains Academy SQL Fundamentals (prepping for an upcoming new role!)
+
+### R5D17-D21 (12-16/8 2022)
+
+- 5 day backlog: going deeper in SQL woth JetBrains Academy SQL Fundamentals
