@@ -25,3 +25,7 @@ iii. JetBrains Academy SQL Fundamentals (prepping for an upcoming new role!)
 ### R5D17-D21 (12-16/8 2022)
 
 - 5 day backlog: going deeper in SQL woth JetBrains Academy SQL Fundamentals
+
+### R5D22-D26 (17-21/8 2022)
+
+- 5 day backlog: still working through JetBrains Academy SQL Fundamentals, 17 topics to go.
