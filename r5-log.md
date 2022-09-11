@@ -36,4 +36,4 @@ The log of my fifth round of #100DaysOfCode challenge after ending round four on
 
 ### R5D38-D47 (2/9-11/9 2022)
 
-- JetBrains Academy Intro to Command Line and Unix Shell
+- Completed 9 topics of JetBrains Academy Intro to Command Line and Unix Shell.
