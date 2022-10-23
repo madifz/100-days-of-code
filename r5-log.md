@@ -51,6 +51,6 @@ The log of my fifth round of #100DaysOfCode challenge after ending round four on
 - built a simple react image-to-text conversion app with Tesseract.js to help with day-to-day work
 https://github.com/madifz/tesseract-scanner
 
-### R5D62-86 (27/9-12/10 2022)
+### R5D62-86 (27/9-21/10 2022)
 
 - Been quite a blur in the past 2 weeks or so as I adjust working in a startup. Managed to barely keep up with small bits of coding daily. Now up to end of Stage 4 (JetBrains Academy Intro to Command Line and Unix Shell) but stuck at the stage converter project. Working on it this weekend.
