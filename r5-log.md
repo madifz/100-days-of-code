@@ -57,4 +57,13 @@ https://github.com/madifz/tesseract-scanner
 
 ### R5D87-89 (22/10-24/10 2022)
 
-- Have been stuck this past long weekend with the JetBrains Academy Linux Intro Stage 4 project (https://github.com/madifz/linux_intro/blob/main/hyperskill_linux_stage4). Website keeps giving me error "Wrong answer in test #4 Test failed!" but testing on my local machine threw no errors. I bountied my question to see if other learners can figure where I went wrong.
+- Have been stuck this past long weekend with the JetBrains Academy [Linux Intro Stage 4 project](https://github.com/madifz/linux_intro/blob/main/hyperskill_linux_stage4). Website keeps giving me error "Wrong answer in test #4 Test failed!" but testing on my local machine threw no errors. I bountied my question to see if other learners can figure where I went wrong. Finally managed to resolve after someone pointed out that definitions.txt do not need each line tp be indexed.
+
+
+### R5D90-91 (25-26/10 2022)
+
+- Completed Stage 5 marking the end of the JetBrains Academy Intro to Command Line and Unix Shell course!
+
+
+### R5D92-95 (27-28/10 2022)
+- Starting on a new fromtend framework, 13% complete Hands-on Vue.js on educative.
