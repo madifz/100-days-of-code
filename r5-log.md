@@ -65,5 +65,5 @@ https://github.com/madifz/tesseract-scanner
 - Completed Stage 5 marking the end of the JetBrains Academy Intro to Command Line and Unix Shell course!
 
 
-### R5D92-95 (27-28/10 2022)
-- Starting on a new fromtend framework, 13% complete Hands-on Vue.js on educative.
+### R5D92-98 (27-31/10 2022)
+- Starting on a new frontend framework, 26% complete Hands-on Vue.js on educative.
