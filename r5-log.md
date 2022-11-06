@@ -67,3 +67,6 @@ https://github.com/madifz/tesseract-scanner
 
 ### R5D92-98 (27-31/10 2022)
 - Starting on a new frontend framework, 26% complete Hands-on Vue.js on educative.
+
+### R5D99-100 (1-2/11/2022)
+- 30% completed Hands-on Vue.js on educative.io.
