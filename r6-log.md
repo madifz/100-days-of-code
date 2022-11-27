@@ -10,3 +10,6 @@ The log of my sixth round of #100DaysOfCode challenge after ending round four on
 
 ### R6D12-17 (14-19/11/2022)
 - 63% completed Hands-on Vue.js on educative.io.
+
+### R6D18-25 (20-27/11/2022)
+- 86% completed Hands-on Vue.js on educative.io.
