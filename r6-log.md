@@ -17,5 +17,8 @@ The log of my sixth round of #100DaysOfCode challenge after ending round four on
 ### R6D26-30 (28/11-2/12 2022)
 - 100% completed Hands-on Vue.js on educative.io.
 
-### R6D31-43 (3/11-15/12 2022)
+### R6D31-43 (3/12-15/12 2022)
 - Going back to Java! 12% completed Java Masterclass for Software Developers on educative.io.
+
+### R6D44-47 (16/12-19/12 2022)
+- 17% completed Java Masterclass for Software Developers on educative.io.
