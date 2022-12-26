@@ -22,3 +22,9 @@ The log of my sixth round of #100DaysOfCode challenge after ending round four on
 
 ### R6D44-47 (16/12-19/12 2022)
 - 17% completed Java Masterclass for Software Developers on educative.io.
+
+### R6D48-52 (20/12-24/12 2022)
+- 25% completed Java Masterclass for Software Developers on educative.io.
+
+### R6D53-54 (25/12-26/12 2022)
+- Spent Xmas long weekend practising Java (https://www.udemy.com/share/101rkq/) building an email admin app. I think I can work towards a library of small projects that I can repurpose for future use.
