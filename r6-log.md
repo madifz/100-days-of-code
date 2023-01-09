@@ -28,3 +28,6 @@ The log of my sixth round of #100DaysOfCode challenge after ending round four on
 
 ### R6D53-54 (25/12-26/12 2022)
 - Spent Xmas long weekend practising Java (https://www.udemy.com/share/101rkq/) building an email admin app. I think I can work towards a library of small projects that I can repurpose for future use.
+
+### R6D55-68 (25/12/22-7/1/23)
+- 47% completed Java Masterclass for Software Developers on educative.io.
