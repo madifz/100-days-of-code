@@ -31,3 +31,6 @@ The log of my sixth round of #100DaysOfCode challenge after ending round four on
 
 ### R6D55-68 (25/12/22-7/1/23)
 - 47% completed Java Masterclass for Software Developers on educative.io.
+
+### R6D69-70 (8/1-9/1 2023)
+- Practice project: Student Database Application (https://www.udemy.com/share/101rkq/) building an email admin app. 
