@@ -34,3 +34,6 @@ The log of my sixth round of #100DaysOfCode challenge after ending round four on
 
 ### R6D69-70 (8/1-9/1 2023)
 - Practice project: Student Database Application (https://www.udemy.com/share/101rkq/) building an email admin app. 
+
+### R6D71-100 (10/1-8/2 2023)
+- Going back to Head First Java and completed up till chapter 6 (Using the Java Library)
