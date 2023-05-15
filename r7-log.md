@@ -12,6 +12,6 @@ The log of my seventh round of #100DaysOfCode challenge after ending round four 
 - University of Helsinki: Java Programming I sections 1-4
 https://java-programming.mooc.fi/part-1
 
-### R7D75-D (24/4-/5 2023)
-- Joy of React
-https://courses.joshwcomeau.com/joy-of-react
+### R7D75-D96 (24/4-15/5 2023)
+- Joy of React 
+(https://courses.joshwcomeau.com/joy-of-react) Module 1 Fundamentals (JSX, Components, App structure, fragments, iteration, conditional rendering, range utility, styling)
