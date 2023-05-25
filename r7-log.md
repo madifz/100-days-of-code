@@ -15,3 +15,7 @@ https://java-programming.mooc.fi/part-1
 ### R7D75-D96 (24/4-15/5 2023)
 - Joy of React 
 (https://courses.joshwcomeau.com/joy-of-react) Module 1 Fundamentals (JSX, Components, App structure, fragments, iteration, conditional rendering, range utility, styling)
+
+### R7D97-D100 (16/5-19/5 2023)
+- Joy of React 
+(https://courses.joshwcomeau.com/joy-of-react) Module 2 Working with State (working with handlers, useState Hook - Core React Loop)
